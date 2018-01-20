@@ -1,3 +1,2 @@
 # php_db_access
-This project is for the purpose of establishing a simple tool allowed to do some processing with a database in order to facilitate requettes types LMD
-++ Ce projet est dans le but de mettre en place un outil simple permetant de faire certain traitement avec une base de donnée pour faciliter les requettes de types LMD
+Librairie PHP très simple à utiliser pour effectuer des requettes de type LMD/CRUD dans la programmation procédurale et objet 
